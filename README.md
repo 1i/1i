@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1i Patrick O'Sullivan from Dublin Ireland
 - 🔧 I'm an engineer — that means I solve problems. Not problems like 'What is beauty?' because that would fall within the purview of your conundrums of philosophy.
 - 👀 I’m interested in tech, nature and gaming
-- 🌱 I’m currently learning anything work throws at me.
+- 🌱 I’m currently learning anything work throws at me. In the Java space
 
 
 <!---
