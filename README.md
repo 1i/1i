@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @1i Patrick O'Sullivan, I WFH in Dublin Ireland.
 - 🔧 I'm an engineer — that means I solve problems. Not problems like 'What is beauty?' because that would fall within the purview of your conundrums of philosophy.
-- 👀 I’m interested in tech, nature and gaming.
+- 👀 I’m interested in tech, nature and gaming. See [ebirdus](https://github.com/1i/ebirdus and https://ebird.org/home
 - 🧑‍💼 I currently work on mostly Java stuff that corpo work throws at me.
